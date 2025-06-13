@@ -20,6 +20,10 @@ https://kodekloud.com/free-labs
 https://labex.io/learn
 https://labs.iximiuz.com/
 https://labs.play-with-docker.com/
+https://linuxsurvival.com/
+https://overthewire.org/wargames/bandit/bandit0.html
+https://madhuakula.com/kubernetes-goat/docs/
+
 
 # Apprendre VIM dans un jeu d'avanture
 [VIM Adventures](https://vim-adventures.com/)
