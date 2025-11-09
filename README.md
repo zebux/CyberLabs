@@ -29,6 +29,7 @@ Un annuaire des Labs gratuit portant sur la cybersécurité, le système, le Dev
  - [Linux Survial](https://linuxsurvival.com/) - Différents exercices pour apprendre la ligne de commande Linux.
  - [Bandit](https://overthewire.org/wargames/bandit/bandit0.html) - A travers différentes connexions SSH, il faudra trouver le mot de passe (SSH) pour le niveau suivant.
  - [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/docs/) - Un environnement pour apprendre la sécurité de Kubernetes.
+ - [KillerCoda](https://killercoda.com/) - Un environnement interactif K8s, DevOps & Linux
 <!-- > # LAB Azure
   - [Résoudre les problèmes de sécurité réseau sur Microsoft Azure](https://learn.microsoft.com/fr-fr/training/modules/troubleshoot-network-security-issues/)
   - [Migrer une application web locale vers Azure App Service](https://learn.microsoft.com/fr-fr/training/modules/migrate-app-service-migration-assistant/)
