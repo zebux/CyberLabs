@@ -30,21 +30,14 @@ Un annuaire des Labs gratuit portant sur la cybersécurité, le système, le Dev
  - [Bandit](https://overthewire.org/wargames/bandit/bandit0.html) - A travers différentes connexions SSH, il faudra trouver le mot de passe (SSH) pour le niveau suivant.
  - [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/docs/) - Un environnement pour apprendre la sécurité de Kubernetes.
  - [KillerCoda](https://killercoda.com/) - Un environnement interactif K8s, DevOps & Linux
-<!-- > # LAB Azure
-  - [Résoudre les problèmes de sécurité réseau sur Microsoft Azure](https://learn.microsoft.com/fr-fr/training/modules/troubleshoot-network-security-issues/)
-  - [Migrer une application web locale vers Azure App Service](https://learn.microsoft.com/fr-fr/training/modules/migrate-app-service-migration-assistant/)
-  - [Automatiser des tâches Azure avec Azure PowerShell](https://learn.microsoft.com/fr-fr/training/modules/automate-azure-tasks-with-powershell/)
-  - []()
-  - []() -->
-
 
 ## 🧠 D'autres labs ludiques:
-# Apprendre VIM dans un jeu d'avanture
+### Apprendre VIM dans un jeu d'avanture
  - [VIM Adventures](https://vim-adventures.com/) - Un jeu d'aventure pour maîtriser VIM et tous ses raccourcis.
 
-# Git - Apprendre git a travers des petits exercices
+### Git - Apprendre git a travers des petits exercices
  - [Learn Git Branching](https://learngitbranching.js.org/) -  Apprendre Git à travers différents exercices ludiques.
 
-# Jeu pour apprendre le SQL
+### Jeu pour apprendre le SQL 
  - [SQL Murder Mystery](https://mystery.knightlab.com/) - Enquêter sur un meurtre à l'aide de commandes SQL.
  - [SQL Squid Game](https://datalemur.com/sql-game) - Un jeu inspiré de l'univers Squid Game où l'on évolue en enchaînant les requêtes SQL.
